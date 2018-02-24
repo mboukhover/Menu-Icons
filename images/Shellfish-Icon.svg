@@ -1,0 +1,17 @@
+<svg id="Shellfish" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.99 68.02">
+  <title>Shellfish-Icon</title>
+  <path d="M68.91,47.61l1.41-2.82,3.19-1.46C72.7,42.87,70.12,41,69.13,41a6.23,6.23,0,0,0,0,12.44,6,6,0,0,0,5.76-5.27,3,3,0,0,1-1.09-.56Z" transform="translate(-51.01 -41)"/>
+  <path d="M88.91,51.71a7.27,7.27,0,0,0-1.83,9.65,6.24,6.24,0,0,0,9,2A7.25,7.25,0,0,0,98.4,54.6a3.25,3.25,0,0,1-1.33.19L92.52,58l-.31-3.56L94.32,51c-1,.11-4.49.06-5.41.71" transform="translate(-51.01 -41)"/>
+  <ellipse cx="11.92" cy="12.06" rx="4.01" ry="4.28"/>
+  <ellipse cx="9.01" cy="17.5" rx="4.01" ry="4.28"/>
+  <ellipse cx="37.03" cy="24.38" rx="4.47" ry="4.79"/>
+  <ellipse cx="26.46" cy="32.21" rx="4.47" ry="4.79"/>
+  <ellipse cx="32.15" cy="28.73" rx="4.47" ry="4.79"/>
+  <ellipse cx="9.01" cy="23.72" rx="4.01" ry="4.28"/>
+  <ellipse cx="66.86" cy="71.5" rx="6.95" ry="10.17" transform="translate(-71.83 74.02) rotate(-73.32)"/>
+  <polygon points="15.79 63.63 6.86 63.89 1.08 68.02 0.99 61 0.99 59 6.67 51.28 15.79 63.63"/>
+  <ellipse cx="63" cy="77.5" rx="4.5" ry="7" transform="translate(-80.33 74.6) rotate(-73.32)"/>
+  <ellipse cx="58" cy="93.5" rx="7" ry="4.5" transform="translate(-62.15 -33.09) rotate(-7.12)"/>
+  <ellipse cx="58" cy="88.5" rx="4.5" ry="7" transform="translate(-85.01 99.77) rotate(-86.37)"/>
+  <ellipse cx="60" cy="82.5" rx="4.5" ry="7" transform="translate(-87.26 75.29) rotate(-73.32)"/>
+</svg>

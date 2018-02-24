@@ -1,0 +1,35 @@
+svg.icons {
+  width: 1em;
+  height: 1em;
+  margin-right: 2em;}
+
+body{
+  background-color: black;}
+
+svg.gluten {
+  fill: #f6c955;
+  width: 7em;
+  height: 7em;}
+
+svg.nut {
+  fill: #9f512d;
+  width: 7em;
+  height: 7em;}
+
+svg.shellfish {
+  fill: #e60000;
+  width: 7em;
+  height: 7em;}
+
+svg.spicy {
+  fill: #800000;
+  width: 7em;
+  height: 7em;}
+
+svg.sweet {
+  fill: #ff80ff;
+  width: 7em;
+  height: 7em;}
+
+svg.sweet:hover {
+  fill:#00ffff;}
